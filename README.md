@@ -29,15 +29,15 @@ Color Gradient Transition: Utilize the lerpColor() function to interpolate betwe
 
 ### The Coding Technique in Action
 
-![the coding technique in action](images/final.jpg)  
+![the coding technique in action](images/openprocessing.png)  
 [Source](https://openprocessing.org/sketch/2529409)
 
 ### Related Functions
 
 - [`lerpColor()`](https://p5js.org/reference/p5/lerpColor/)  
 - [`noise()`](https://p5js.org/reference/p5/noise/)  
-- [curveVertex()](https://p5js.org/reference/p5/curveVertex/)  
+- [`curveVertex()`](https://p5js.org/reference/p5/curveVertex/)  
 
 
-I can write a sentence referencing `helloWorld()`
-> This is a blockquote.
+
+> This is a blockuote.

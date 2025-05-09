@@ -34,7 +34,7 @@ Color Gradient Transition: Utilize the lerpColor() function to interpolate betwe
 
 ### Related Functions
 
-- [`lerpColor()`](https://p5js.org/reference/p5/lerpColor/)  
+- [`bezier()`](https://p5js.org/examples/repetition-bezier/)  
 - [`noise()`](https://p5js.org/reference/p5/noise/)  
 - [`randomSeed()`](https://p5js.org/reference/p5/randomSeed/)  
 

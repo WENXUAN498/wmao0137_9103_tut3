@@ -29,7 +29,7 @@ Color Gradient Transition: Utilize the lerpColor() function to interpolate betwe
 
 ### The Coding Technique in Action
 
-![the coding technique in action](images/final.jpg)  
+![the coding technique in action](images/openprocessing.png)  
 [Source](https://openprocessing.org/sketch/2529409)
 
 ### Related Functions

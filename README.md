@@ -8,7 +8,7 @@ The artwork our group chose is ‘Ntange II (Grass)’ by Emily Kame Kngwarreye.
 ![SELINA](images/IMG_6336.jpg)  
 ![SELINA](images/IMG_6337.jpg)
 
-# Artistic Inspiration: [SELINA]
+# Artistic Inspiration: SELINA
 
 I am greatly inspired by the artworks of SELINA, His works are composed through the rich layering of colors, points, lines, and planes, creating a vibrant and dynamic impression. By varying colors and the sizes of color blocks, he generates a strong visual impact.
 
@@ -36,8 +36,7 @@ Color Gradient Transition: Utilize the lerpColor() function to interpolate betwe
 
 - [`lerpColor()`](https://p5js.org/reference/p5/lerpColor/)  
 - [`noise()`](https://p5js.org/reference/p5/noise/)  
-- [curveVertex()](https://p5js.org/reference/p5/curveVertex/)  
+- [`randomSeed()`](https://p5js.org/reference/p5/randomSeed/)  
 
 
-I can write a sentence referencing `helloWorld()`
-> This is a blockquote.
+
